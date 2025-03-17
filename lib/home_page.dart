@@ -605,7 +605,6 @@ class homePageState extends State<homePage> {
                                                   cursorColor: Colors.black,
                                                   cursorHeight: 25,
                                                   maxLength: 10,
-
                                                   ///Digit Only for OTP
 
                                                   inputFormatters: [
